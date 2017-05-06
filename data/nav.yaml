@@ -13,7 +13,7 @@ menu:
   - title: 	"Was ich kann"
     href: 	"abilities"
   - title: 	"Startpunkte"
-    href:   "zeropoints"
+    href:   "startingpoints"
   - title: 	"Menschen"
     href: 	"peers"
 
@@ -29,6 +29,5 @@ logout: "Logout"
 # logoTextSize: 			"22px"
 # logoHeight: 				"50px"
 # logoHeightExpanded: "80px"
-# colorLight: 				"#ff0000"
-# colorDark: 					"#330000"
-
+colorLight: 				  "#bdc32e"
+colorDark: 					  "#1B073D"

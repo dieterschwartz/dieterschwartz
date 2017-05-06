@@ -12,9 +12,9 @@ ref: "about"
 
 # Additional Parameters
 
-# titleSize: 			"80px"
-# subtitleSize: 	"40px"
-#titleColor: 		"white"
-#subtitleColor: 	"white"
-#lineColor: 			"white"
-#buttonColor: 		"white"
+#titleSize: 		"80px"
+#subtitleSize: 	"40px"
+titleColor: 		"#a1a52b"
+#subtitleColor: 	"#bdc32e"
+lineColor: 			"#a1a52b;"
+buttonColor: 		"#a1a52b"
