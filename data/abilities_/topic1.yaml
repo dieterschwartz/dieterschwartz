@@ -11,10 +11,10 @@
 # screenImage:      Image on screen
 # frame:            Frame around screen image 
 
-abilityName: Benenne dein Tätigkeitsfeld
+abilityName: Coaching
 description: >
-    Beschreibe das Tätigkeitsfeld, in welchem Du deine Fähigkeiten einsetzt. 
-    Welchen Sinn siehst Du in deinem Tätigkeitsfeld?
+    Wenn Du das Gefühl hast, nicht Dein eigenes Leben zu leben, 
+    Kann ich Dir helfen, dies zu ändern.
 
 linkText: Mehr
 colorMode: light
