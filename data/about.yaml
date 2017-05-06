@@ -9,14 +9,16 @@ image: img/me.jpg
 imagePos: left
 imageSize: 250
 text: >
-    Ich schöpfe aus der Übereinstimmung dessen was ist mit sich selbst. 
+    Ich schöpfe aus der Übereinstimmung dessen, was ist, mit sich selbst. 
     <br>Mein Werkzeug ist das Hindurch-Hören,
 
 
-    meine Brücke zum anderen die Musik,  
+    meine Brücke zum anderen die Musik, ...
     
 
-    das Spiel und auch das Wort.
+    das Spiel ...
+
+    und auch das Wort.
 action: Was ich kann ...
 ref: abilities
 
