@@ -250,6 +250,21 @@ elements:
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
+  - image: img/backgrounds/startingpoints9.jpg
+    captionTitle: Du suchst einen Komponisten für Deinen Film
+    captionCategory: Musik
+    filters:
+      - Musik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           "#bdc32e"
+    captionBackgroundColor: "#1B073D"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
 
 
 # backgroundColor:        white
