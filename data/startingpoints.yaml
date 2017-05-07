@@ -1,9 +1,9 @@
 title: Angebote & Möglichkeiten
-subtitle: Du willst etwas Neues beginnen? Hier sind einige Startpunkte, die ich für mich gefunden habe.
+subtitle: Du willst Deine Lebensqualität verbessern? Hier sind einige Möglichkeiten, wie Du das tun kannst.
 
 filters: [
   Coaching,
-  Intu,
+  Intuitive Paedagogik,
   Musik,
 ]
 all: Alle
@@ -18,9 +18,12 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
-    # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
+
 
   - image: img/backgrounds/startingpoints1.jpg
     captionTitle: Einzelcoaching
@@ -31,11 +34,13 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
-    # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/startingpoints/sp_freecodecamp.png
+  - image: img/backgrounds/startingpoints10.png
     captionTitle: Teamcoaching
     captionCategory: Coaching
     filters:
@@ -44,10 +49,13 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
-  - image: img/startingpoints/sp_khanacademy.png
+  - image: img/backgrounds/startingpoints11.png
     captionTitle: Konfliktlösung
     captionCategory: Coaching
     filters:
@@ -56,67 +64,129 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
-    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
-    # panelColor:             white
-
-  - image: img/startingpoints/sp_spielplatz.png
-    captionTitle: Intuitive Pädagogik Seminar
-    captionCategory: Intu
-    filters:
-      - Intu
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
-
-    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
-    # panelColor:             white
-
-  - image: img/startingpoints/sp_codecademy.png
-    captionTitle: Intu Wohnzimmerseminar
-    captionCategory: Intu
-    filters:
-      - Intu
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
-
-    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
-    # panelColor:             white
-
-  - image: img/backgrounds/startingpoints4.jpg
-    captionTitle: Kollegiumstag für Schulen
-    captionCategory: Intu
-    filters:
-      - Intu
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
-
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints5.jpg
-    captionTitle: Pädagogische Hospitation & Coaching
-    captionCategory: Intu
+    captionTitle: Mentor für Pädagogische Berufe
+    captionCategory: Coaching
     filters:
-      - Intu
       - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints5.jpg
+    captionTitle: Pädagogische Hospitation & Coaching
+    captionCategory: Coaching
+    filters:
+      - Coaching
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/startingpoints/sp_spielplatz.png
+    captionTitle: Intuitive Pädagogik Seminar
+    captionCategory: Intuitive Paedagogik
+    filters:
+      - Intuitive Paedagogik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/startingpoints/sp_codecademy.png
+    captionTitle: Intu Wohnzimmerseminar
+    captionCategory: Intuitive Paedagogik
+    filters:
+      - Intuitive Paedagogik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints4.jpg
+    captionTitle: Kollegiumstag für Schulen
+    captionCategory: Intuitive Paedagogik
+    filters:
+      - Intuitive Paedagogik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints5.jpg
+    captionTitle: Mentor für Pädagogische Berufe
+    captionCategory: Intuitive Paedagogik
+    filters:
+      - Intuitive Paedagogik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints5.jpg
+    captionTitle: Pädagogische Hospitation & Coaching
+    captionCategory: Intuitive Paedagogik
+    filters:
+      - Intuitive Paedagogik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints6.jpg
     captionTitle: Themen Vortrag
-    captionCategory: Intu
+    captionCategory: Intuitive Paedagogik
     filters:
-      - Intu
+      - Intuitive Paedagogik
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           white
+    # captionBackgroundColor: "#FF4C3D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
@@ -129,6 +199,9 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           "#bdc32e"
+    captionBackgroundColor: "#1B073D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
@@ -141,6 +214,9 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           "#bdc32e"
+    captionBackgroundColor: "#1B073D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
@@ -153,6 +229,9 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           "#bdc32e"
+    captionBackgroundColor: "#1B073D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
@@ -165,6 +244,9 @@ elements:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
 
+    # captionSize:            16
+    # captionColor:           "#bdc32e"
+    captionBackgroundColor: "#1B073D"
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
     # panelColor:             white
 
@@ -182,8 +264,8 @@ elements:
 # filterActiveTextColor:  white
 
 # captionSize:            16
-captionColor:           "#333"
-captionBackgroundColor: "#bdc32e"
+# captionColor:           "#333"
+# captionBackgroundColor: "#bdc32e"
 # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
 # panelColor:             white
 # panelTitleSize:         60

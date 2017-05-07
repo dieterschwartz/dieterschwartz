@@ -14,11 +14,11 @@ abilityName: Musik
 description: >
     Wenn Du die Ahnung hast, dass Du mit Musikalischem Tun,
     Dich selbst und die Welt verändern kannst,
-    können wir dies zusammen tun.
+    können wir dies gemeinsam tun.
 linkText: Mehr
 colorMode: light
 # backgroundImage: img/...
-backgroundColor: "#611469"
+backgroundColor: "#1B073D"
 screenImage: img/backgrounds/startingpoints5.jpg
 placeOfWriting: Dahab
 
