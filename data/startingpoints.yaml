@@ -2,18 +2,18 @@ title: Startpunkte
 subtitle: Du willst etwas Neues beginnen? Hier sind einige Startpunkte, die ich für mich gefunden habe.
 
 filters: [
-  University,
-  Programmieren,
-  Ideen,
+  Coaching,
+  Intu,
+  Musik,
 ]
 all: Alle
 
 elements:
   - image: img/backgrounds/startingpoints1.jpg
-    captionTitle: A Template for the first steps
-    captionCategory: Invisible University
+    captionTitle: Einzelcoaching
+    captionCategory: Coaching
     filters:
-      - University
+      - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -23,10 +23,10 @@ elements:
     # panelColor:             white
 
   - image: img/startingpoints/sp_freecodecamp.png
-    captionTitle: FreeCodeCamp
-    captionCategory: Programmieren
+    captionTitle: Teamcoaching
+    captionCategory: Coaching
     filters:
-      - Programmieren
+      - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -35,10 +35,10 @@ elements:
     # panelColor:             white
 
   - image: img/startingpoints/sp_khanacademy.png
-    captionTitle: Khan-Academy
-    captionCategory: Programmieren
+    captionTitle: Konfliktlösung
+    captionCategory: Coaching
     filters:
-      - Programmieren
+      - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -47,10 +47,10 @@ elements:
     # panelColor:             white
 
   - image: img/startingpoints/sp_spielplatz.png
-    captionTitle: Der Computer-Spielplatz
-    captionCategory: Programmieren
+    captionTitle: Intuitive Pädagogik Seminar
+    captionCategory: Intu
     filters:
-      - Programmieren
+      - Intu
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -59,10 +59,10 @@ elements:
     # panelColor:             white
 
   - image: img/startingpoints/sp_codecademy.png
-    captionTitle: Codecademy
-    captionCategory: Programmieren
+    captionTitle: Intu Wohnzimmerseminar
+    captionCategory: Intu
     filters:
-      - Programmieren
+      - Intu
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -71,10 +71,10 @@ elements:
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints4.jpg
-    captionTitle: Original Play - Ursprüngliches Spiel
-    captionCategory: Kommunikation
+    captionTitle: Kollegiumstag für Schulen
+    captionCategory: Intu
     filters:
-      - Kommunikation
+      - Intu
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -83,10 +83,11 @@ elements:
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints5.jpg
-    captionTitle: 9 Grundgedanken
-    captionCategory: Ideen
+    captionTitle: Pädagogische Hospitation & Coaching
+    captionCategory: Intu
     filters:
-      - Ideen
+      - Intu
+      - Coaching
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -95,35 +96,10 @@ elements:
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints6.jpg
-    captionTitle: Primärwoche in Dahab
-    captionCategory: Kommunikation
+    captionTitle: Themen Vortrag
+    captionCategory: Intu
     filters:
-      - Kommunikation
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
-
-    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
-    # panelColor:             white
-
-  - image: img/backgrounds/startingpoints7.jpg
-    captionTitle: 95 Gedankenfehler der westlichen Kultur
-    captionCategory: Ideen
-    filters:
-      - Ideen
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
-    video: video/image_to_playground.mp4
-
-    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
-    # panelColor:             white
-
-  - image: img/backgrounds/startingpoints8.jpg
-    captionTitle: 2064 - Die Geschichte der Cypherpunks
-    captionCategory: Kommunikation
-    filters:
-      - Ideen
-      - Kommunikation
+      - Intu
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -132,10 +108,46 @@ elements:
     # panelColor:             white
 
   - image: img/backgrounds/startingpoints9.jpg
-    captionTitle: 2064 - Das Spiel
-    captionCategory: Ideen
+    captionTitle: Du willst Deine Auftrittspanik auflösen
+    captionCategory: Musik
     filters:
-      - Ideen
+      - Musik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints7.jpg
+    captionTitle: Du willst ein Orchester oder einen Chor leiten
+    captionCategory: Musik
+    filters:
+      - Musik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints8.jpg
+    captionTitle: Du willst musikalisch Improvisieren
+    captionCategory: Musik
+    filters:
+      - Musik
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints9.jpg
+    captionTitle: Du willst Posaune spielen lernen
+    captionCategory: Musik
+    filters:
+      - Musik
     content: >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
     video: video/image_to_playground.mp4
@@ -144,20 +156,21 @@ elements:
     # panelColor:             white
 
 
+
 # backgroundColor:        white
 # titleSize:              50
-# titleColor:             "#333"
-# lineColor:              "#BA4C3D"
+# titleColor:             "#1B073D"
+# lineColor:              "#bdc32e"
 # textSize:               18
 # textColor:              "#333"
 # filterSize:             12
 # filterColor:            "#1B0728"
-# filterActiveColor:      "#BA4C3D"
+# filterActiveColor:      "#bdc32e"
 # filterActiveTextColor:  white
 
 # captionSize:            16
-# captionColor:           white
-# captionBackgroundColor: "#BA4C3D"
+captionColor:           "#333"
+captionBackgroundColor: "#bdc32e"
 # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
 # panelColor:             white
 # panelTitleSize:         60
