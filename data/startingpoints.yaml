@@ -4,6 +4,7 @@ subtitle: Du willst Deine Lebensqualität verbessern? Hier sind einige Möglichk
 filters: [
   Coaching,
   Intuitive Paedagogik,
+  Kommunikation als Kunst,
   Musik,
 ]
 all: Alle
@@ -87,6 +88,36 @@ elements:
 
   - image: img/backgrounds/startingpoints5.jpg
     captionTitle: Pädagogische Hospitation & Coaching
+    captionCategory: Coaching
+    filters:
+      - Coaching
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints5.jpg
+    captionTitle: Monatliche Primärgruppe
+    captionCategory: Kommunikation als Kunst
+    filters:
+      - Kommunikation als Kunst
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo sed non expedita officia quidem fugiat reprehenderit, dignissimos dolorem magnam alias optio culpa a neque eius laudantium ipsum, quae adipisci doloribus!
+    video: video/image_to_playground.mp4
+
+    # captionSize:            16
+    # captionColor:           white
+    captionBackgroundColor: "#bdc32e"
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+  - image: img/backgrounds/startingpoints5.jpg
+    captionTitle: Mentoring einer Schulgemeinschaft
     captionCategory: Coaching
     filters:
       - Coaching
